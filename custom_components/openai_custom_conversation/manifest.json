@@ -6,6 +6,7 @@
   "config_flow": true,
   "dependencies": ["conversation"],
   "documentation": "https://github.com/geryduyck/ha_openai_custom_conversation",
+  "issue_tracker": "https://github.com/geryduyck/ha_openai_custom_conversation/issues",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "requirements": ["openai==2.2.0"],
