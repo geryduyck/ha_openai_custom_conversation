@@ -5,7 +5,7 @@
   "codeowners": [],
   "config_flow": true,
   "dependencies": ["conversation"],
-  "documentation": "https://github.com/yourusername/openai_custom_conversation",
+  "documentation": "https://github.com/geryduyck/ha_openai_custom_conversation",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "requirements": ["openai==2.2.0"],
